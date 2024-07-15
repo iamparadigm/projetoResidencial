@@ -1,20 +1,13 @@
-
-# 📝 Sobre 
-
 # Site Residencial Codelândia
+![NPM](https://img.shields.io/npm/l/react)
 
-Este repositório foi criado para colocar em prática os conhecimentos adquiridos no curso de Javascript da DIO.
-Neste projeto foi criado um clone do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele utilizamos HTML,
-CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos,
-funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
-
+Este projeto open-source faz parte de um conjunto de desafios chamado de [Desafios Front-End](https://github.com/iuricode/desafios-frontend/blob/main/README.md) propostos pela Comunidade Codelândia.
 
 # Tecnologias utilizadas
 
 * HTML
 * CSS 
 * Javascript
-* Visual Studio Code
 
 ### 
 
@@ -29,4 +22,9 @@ funções e manipulação de elementos HTML usando JavaScript, estilização e a
 
 Linkedin: [https://www.linkedin.com/in/micaiasnascimentoo/](https://www.linkedin.com/in/micaiasnascimentoo/)
 
-email: [micaiasnascimento.iq@gmail.com](mailto:micaiasnascimento.iq@gmail.com)
+e-mail: [micaiasnascimento.iq@gmail.com](mailto:micaiasnascimento.iq@gmail.com)
+
+#
+
+[Créditos](https://github.com/iuricode)
+

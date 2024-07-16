@@ -1,7 +1,1 @@
-  <div class="navbar__opcoes">
-                <a href="#" class="opcao__link">Quem somos</a>
-                <a href="#" class="opcao__link">Diferenciais</a>
-                <a href="#" class="opcao__link">Espaços</a>
-                <a href="#" class="opcao__link">Clientes</a>
-                <a href="#" class="opcao__link">Localização</a>
-            </div>
+

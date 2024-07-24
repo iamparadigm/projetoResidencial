@@ -7,7 +7,7 @@ Este projeto open-source faz parte de um conjunto de desafios chamado de [Desafi
 
 
 ### 💻 Aplicação:
-[Residencial](https://iamparadigm.github.io/projetoResidencial/)
+Link para o Preview: https://projeto-residencial.vercel.app/
 # Layout do projeto
 ![Layout do Projeto](https://github.com/user-attachments/assets/8b5ac9e3-9890-411e-964f-6b19d9216da4)
 
